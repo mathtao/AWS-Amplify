@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6708E72B-706A-4E55-8DE0-E171EFEF68FD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82767762-96DF-49A2-AEC9-DDFFF247A64E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceLivenessDetector/ViewControllers/FaceLivnessHomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "startServer(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "82767762-96DF-49A2-AEC9-DDFFF247A64E - 1a45f52c672fc47d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceLivenessDetector.FaceLivnessHomeViewController.startServer(__C.UIButton) -&gt; ()"
+                  moduleName = "FaceLivenessDetector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xk/Desktop/aws_pro/FaceLivenessDetector/FaceLivenessDetector/ViewControllers/FaceLivnessHomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "82767762-96DF-49A2-AEC9-DDFFF247A64E - e9b5748e92387b1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in FaceLivenessDetector.FaceLivnessHomeViewController.startServer(__C.UIButton) -&gt; ()"
+                  moduleName = "FaceLivenessDetector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xk/Desktop/aws_pro/FaceLivenessDetector/FaceLivenessDetector/ViewControllers/FaceLivnessHomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "111A9D52-2384-40FB-9DF5-9D3507DE1859"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/FaceLivenessDetector-fridxwxytijomvgcfqobdqzslnyo/SourcePackages/checkouts/amplify-swift/Amplify/Categories/API/Internal/APICategory+CategoryConfigurable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "configure(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

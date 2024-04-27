@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-facelivenessdetector-dev-165732-authRole",
+      "UnauthRoleArn": "arn:aws:iam::471912225070:role/amplify-facelivenessdetector-dev-165732-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::471912225070:role/amplify-facelivenessdetector-dev-165732-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-facelivenessdetector-dev-165732-deployment",
+      "UnauthRoleName": "amplify-facelivenessdetector-dev-165732-unauthRole",
+      "StackName": "amplify-facelivenessdetector-dev-165732",
+      "StackId": "arn:aws:cloudformation:us-east-1:471912225070:stack/amplify-facelivenessdetector-dev-165732/300f7b80-69a7-11ee-afb6-0aa859b406cd",
+      "AmplifyAppId": "d2z2q202wvt8vx"
+    },
+    "categories": {
+      "auth": {
+        "facelivenessdetector4452de24": {}
+      },
+      "function": {
+        "facelivenessdetector51b9333a": {},
+        "facelivenessdetector17dad80a": {}
+      }
+    }
+  }
+}
